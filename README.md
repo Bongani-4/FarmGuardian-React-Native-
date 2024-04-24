@@ -10,8 +10,9 @@ FG react mobile app , FG is a startup company providing valuable services to agr
 
 ##### Founder and Author: Bongani Njathu
 
-##### December 24, 2023
+##### April 15, 2024
 
+Development on hold.
 
 
 
