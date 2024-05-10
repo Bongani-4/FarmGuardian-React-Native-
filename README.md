@@ -6,7 +6,7 @@
 [![React Native](https://img.shields.io/badge/React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white&labelColor=000020)](https://expo.dev/)
 
-FG react mobile app , FG is a startup company providing valuable services to agriculturist
+FG react version mobile app , FG is a startup company providing valuable services to agriculturist
 
 ##### Founder and Author: Bongani Njathu
 
